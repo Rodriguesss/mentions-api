@@ -2,5 +2,5 @@
 
 startar projeto
 
-npm i
+npm i<br>
 npm dev run
